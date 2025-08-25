@@ -23,7 +23,7 @@
     transition: all 0.2s;
 }
 .logo {
-    background-image: url(/assets/amazon_logo.png);
+    background-image: url(assets/amazon_logo.png);
     height: 50px;
     width: 100%;
     background-size: cover;
@@ -172,7 +172,7 @@ span {
 
 .hero-section {
     height: 350px;
-    background-image: url(/assets/hero_image.jpg);
+    background-image: url(assets/hero_image.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
